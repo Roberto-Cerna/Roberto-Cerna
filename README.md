@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Roberto Cerna</h1>
-<h3 align="center">interested in Algorithms, Data Structures, Complexity Theory, Combinatorics, Statistics, ML/DL and Data Mining </h3>
+<h3 align="center">Interested in Algorithms, Data Structures, Complexity Theory, Combinatorics, Statistics, ML/DL and Data Mining </h3>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 
