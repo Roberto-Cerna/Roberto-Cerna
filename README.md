@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/roberto-alexis-cerna-espiritu-64a997218/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
 <a href="mailto:csrobertocerna@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roberto-Cerna&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roberto-Cerna&label=Visitors&color=0088cc&style=flat-square" alt="--" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
