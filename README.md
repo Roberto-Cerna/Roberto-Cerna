@@ -1,8 +1,11 @@
 
 <h1 align="center">Hello 👋, I'm Roberto Cerna</h1>
-<h3 align="center">Interested in Databases, Algorithms, Data Structures, Statistics, ML/DL and Data Mining </h3>
+<h3 align="center">Interested in Databases, Algorithms, Data Structures, Statistics, ML/DL and Data Mining 
+</h3>
+<h3 align="center">
+<img align="center"  alt="coding" width="350" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
+</h3>
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
